@@ -1,5 +1,6 @@
 <fable>
 	<page background="Layer_0003_6.png">
-        <agent text="texto" font-size="20" x="20" y="20"
+        <agent text="texto" font-size="20" x="20" y="20">
+        <agent img="run.png"
   </page>
 </fable>
