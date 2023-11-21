@@ -1,4 +1,5 @@
 <fable>
-	<page background="noite_dark.png"
+	<page background="noite_dark.png">
+        <agent text="texto"
   </page>
 </fable>
